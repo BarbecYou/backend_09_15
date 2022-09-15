@@ -1,0 +1,28 @@
+{
+  "name": "backend_09_15",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/test.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbecYou/backend_09_15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbecYou/backend_09_15/issues"
+  },
+  "homepage": "https://github.com/BarbecYou/backend_09_15#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
